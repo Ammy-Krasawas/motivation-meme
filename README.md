@@ -1,2 +1,2 @@
 # motivation-meme
-Just a funny relatable meme :)
+A project from my online cause to create a funny relatable meme :)
